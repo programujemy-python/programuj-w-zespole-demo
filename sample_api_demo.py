@@ -1,5 +1,6 @@
 import PySimpleGUI as sg
 import requests
+import sys
 
 
 api_link = "https://api.ipify.org/?format=json"
